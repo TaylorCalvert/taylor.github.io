@@ -1,2 +1,2 @@
 # taylor.github.io
-My Website
+Learning GitHub is fun.
